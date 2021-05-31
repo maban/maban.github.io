@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "gulp-autoprefixer": "^2.3.1",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-imagemin": "^2.3.0",
     "gulp-sass": "^2.0.4",
     "imagemin-pngquant": "^4.1.2",
