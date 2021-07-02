@@ -9,7 +9,7 @@
     "url": "git://github.com/maban/maban.github.io.git"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.4",
     "gulp-autoprefixer": "^2.3.1",
     "gulp-imagemin": "^2.3.0",
     "gulp-sass": "^2.0.4",
